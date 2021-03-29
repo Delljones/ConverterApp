@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TheConverterApp</string>
+
+    <string-array name="spinner_items" >
+        <item>Meter</item>
+        <item>Celsius</item>
+        <item>Kilograms</item>
+
+    </string-array>
+</resources>
