@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">TheConverterApp</string>
+    
+    
+    /// this is a note // 
 
     <string-array name="spinner_items" >
         <item>Meter</item>
